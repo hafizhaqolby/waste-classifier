@@ -1,0 +1,5 @@
+tensorflow==2.15.0
+tensorflowjs==4.13.0
+tflite-support==0.4.4
+matplotlib==3.8.4
+Pillow==10.2.0
